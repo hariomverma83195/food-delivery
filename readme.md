@@ -45,31 +45,31 @@ Now navgate to http://localhost:5173
 
 ## Home Page
 
-![Home](https://github.com/hariomverma83195/cis/blob/main/assets/homepage.jpg?raw=true)
+![Home](https://github.com/hariomverma83195/food-delivery/blob/main/assets/homepage.jpg?raw=true)
 
 
 ## Order Page
 
-![Home](https://github.com/hariomverma83195/cis/blob/main/assets/homepage.jpg?raw=true)
+![Home](https://github.com/hariomverma83195/food-delivery/blob/main/assets/order.jpg?raw=true)
 
 
 ## Admin Page
 
-![Home](https://github.com/hariomverma83195/cis/blob/main/assets/homepage.jpg?raw=true)
+![Home](https://github.com/hariomverma83195/food-delivery/blob/main/assets/admin.jpg?raw=true)
 
 
 ## Restaurant Page
 
-![Home](https://github.com/hariomverma83195/cis/blob/main/assets/homepage.jpg?raw=true)
+![Home](https://github.com/hariomverma83195/food-delivery/blob/main/assets/rest.jpg?raw=true)
 
 
 ## Delivery Partner
 
-![Home](https://github.com/hariomverma83195/cis/blob/main/assets/homepage.jpg?raw=true)
+![Home](https://github.com/hariomverma83195/food-delivery/blob/main/assets/delivery.jpg?raw=true)
 
 
 
-Note: The admin username and password are hardcoded in the app.js file you can add them in database
+### Note: The admin username and password are hardcoded in the app.js file you can add them in database
 
 Admin Username :- admin@new.com
 Admin Password :- 123456
