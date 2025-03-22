@@ -19,7 +19,7 @@ Before you start, make sure you have the following installed:
 
 ## Project Setup
 
-### Dotend setup
+### Dotenv setup
 
 1. Goto the api folder and rename the .envsample to .env
 2. Change the mongodb URI to local or your atlas URI
