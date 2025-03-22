@@ -1,7 +1,3 @@
-# Shhh.... Let's not leak our hardwork
-
- Do not share this repo
-
 # Food Delivery System (MERN Stack)
 
 This is a food delivery system application built with the MERN stack (MongoDB, Express, React, Node.js). The app consists of a backend API and a frontend React application. It uses Vite for React.
